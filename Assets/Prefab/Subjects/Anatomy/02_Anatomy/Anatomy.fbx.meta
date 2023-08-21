@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 48aa2eb355494d24db0eb01b816e5de6
+timeCreated: 1483349460
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __vesicle
+    100002: //RootNode
+    100004: Arteries
+    100006: Body_skin
+    100008: Heart
+    100010: Intestines
+    100012: Large_intestine
+    100014: Liver
+    100016: Lungs
+    100018: Pancreas
+    100020: Prostate
+    100022: Rectum
+    100024: Stomac_open
+    100026: Testicles
+    100028: Testicles_Left
+    100030: Testicles_Left_connection
+    100032: Testicles_Right
+    100034: Testicles_Right_connection
+    100036: Urethra
+    100038: Vesicle
+    400000: __vesicle
+    400002: //RootNode
+    400004: Arteries
+    400006: Body_skin
+    400008: Heart
+    400010: Intestines
+    400012: Large_intestine
+    400014: Liver
+    400016: Lungs
+    400018: Pancreas
+    400020: Prostate
+    400022: Rectum
+    400024: Stomac_open
+    400026: Testicles
+    400028: Testicles_Left
+    400030: Testicles_Left_connection
+    400032: Testicles_Right
+    400034: Testicles_Right_connection
+    400036: Urethra
+    400038: Vesicle
+    2300000: __vesicle
+    2300002: Arteries
+    2300004: Body_skin
+    2300006: Heart
+    2300008: Intestines
+    2300010: Large_intestine
+    2300012: Liver
+    2300014: Lungs
+    2300016: Pancreas
+    2300018: Prostate
+    2300020: Rectum
+    2300022: Stomac_open
+    2300024: Testicles_Left
+    2300026: Testicles_Left_connection
+    2300028: Testicles_Right
+    2300030: Testicles_Right_connection
+    2300032: Urethra
+    2300034: Vesicle
+    3300000: __vesicle
+    3300002: Arteries
+    3300004: Body_skin
+    3300006: Heart
+    3300008: Intestines
+    3300010: Large_intestine
+    3300012: Liver
+    3300014: Lungs
+    3300016: Pancreas
+    3300018: Prostate
+    3300020: Rectum
+    3300022: Stomac_open
+    3300024: Testicles_Left
+    3300026: Testicles_Left_connection
+    3300028: Testicles_Right
+    3300030: Testicles_Right_connection
+    3300032: Urethra
+    3300034: Vesicle
+    4300000: Body_skin
+    4300002: Testicles_Left_connection
+    4300004: Testicles_Right_connection
+    4300006: Testicles_Left
+    4300008: Testicles_Right
+    4300010: Prostate
+    4300012: Urethra
+    4300014: __vesicle
+    4300016: Rectum
+    4300018: Large_intestine
+    4300020: Stomac_open
+    4300022: Pancreas
+    4300024: Vesicle
+    4300026: Intestines
+    4300028: Liver
+    4300030: Heart
+    4300032: Arteries
+    4300034: Lungs
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
