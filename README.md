@@ -3,7 +3,7 @@
 
 
 [Luca Asunis](https://www.linkedin.com/in/luca-asunis?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC7swksBCCX_diC1XLaQWmcMON-KsQR9meU&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BoBHg60UxQfGCTxTSvzequg%3D%3D)\*,
-[Andrea Cirina](linkedin.com/in/andrea-cirina-87a435279)\*,
+[Andrea Cirina](https://www.linkedin.com/in/andrea-cirina-87a435279/)\*,
 [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2)\*,
 [Gustavo Marfia](https://github.com/qp-qp)<br/>
 
