@@ -9,7 +9,7 @@
 
 \* Authors provided equal contributions.
 
-| [ISMAR 23 - 1st Joint Workshop on Cross Reality](https://cross-realities.org/) | [project page](https://varlab-unibo.github.io/HOCTOPUS/) | [paper](https://cross-realities.org/proceedings.php) | [video](https://youtu.be/Q2rpUImP1bM)
+| [ISMAR 23 - 1st Joint Workshop on Cross Reality](https://cross-realities.org/) | [project page](https://varlab-unibo.github.io/HOCTOPUS/) | [paper](https://cross-realities.org/proceedings.php) | [video](https://www.youtube.com/watch?v=rqcuqYxo6GE)
 
 <p align="center">
   <img src="images/hoctopus_teaser.png" width="450">
