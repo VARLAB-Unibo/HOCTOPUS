@@ -186,3 +186,13 @@ The settings for deploying on Android are the **same** as for **any augmented re
 ## Main Unity Scene
 
 The main unity scene is in the [```Assets/Scenes/MainScene.unity```](Assets/Scenes/).
+
+
+## Cite this work
+
+```
+@article{asunishoctopus,
+  title={HOCTOPUS: An Open-Source Cross-Reality tool to Augment Live-Streaming Remote Classes},
+  author={Asunis, Luca and Cirina, Andrea and Stacchio, Lorenzo and Marfia, Gustavo}
+}
+```
