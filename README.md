@@ -191,8 +191,12 @@ The main unity scene is in the [```Assets/Scenes/MainScene.unity```](Assets/Scen
 ## Cite this work
 
 ```
-@article{asunishoctopus,
+@inproceedings{asunis2023hoctopus,
   title={HOCTOPUS: An Open-Source Cross-Reality tool to Augment Live-Streaming Remote Classes},
-  author={Asunis, Luca and Cirina, Andrea and Stacchio, Lorenzo and Marfia, Gustavo}
+  author={Asunis, Luca and Cirina, Andrea and Stacchio, Lorenzo and Marfia, Gustavo},
+  booktitle={2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)},
+  pages={29--34},
+  year={2023},
+  organization={IEEE}
 }
 ```
